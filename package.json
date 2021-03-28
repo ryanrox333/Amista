@@ -1,0 +1,18 @@
+{
+  "name": "joinandseebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mdb-ui-kit": "^3.0.0",
+    "random-anime": "^1.0.6",
+    "randomcolor": "^0.6.2",
+    "replace-in-file": "^6.2.0"
+  }
+}
