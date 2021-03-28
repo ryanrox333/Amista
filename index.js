@@ -350,4 +350,4 @@ bot.on('guildMemberAdd', member => {
 
 
 
-bot.login("NDE4NTM2NzM3OTQ2NDY4MzYz.Wpcutg.vWwnky3StSaoZyPfPcLJ8h_E5Q0")
+bot.login("NDE4NTM2NzM3OTQ2NDY4MzYz.Wpcutg.vWwnky3StSaoZyPfPcLJ8h_E5Q0") // I reset the token so ha
